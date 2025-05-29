@@ -1,0 +1,17 @@
+# Temporary Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+.venv/
+
+# Temporary Docker files
+*.log
+*.tar
+*.gz
+
+# Unnecessary large files
+*.zip
